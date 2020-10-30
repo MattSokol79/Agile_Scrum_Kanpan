@@ -61,7 +61,24 @@ project, people or relationships, tools or even for certain ceremonies. The idea
 what needs to be improved for the next time and less about what went wrong. 
 
 ### Scrum Artifacts 
+1. Product Backlog - The master list of work that needs to get done maintained by the product ownder or manager. Dynamic list 
+of features, requirements etc... that acts as the input for sprint backlog. Essentially the teams "TO DO" list. It is constantly
+revisited re-prioritised and maintained by the Product Owner.
 
+2. Sprint Backlog - List of items, user stories, or bug fixes selected by the development team for implementation in the current
+sprting cycle. Before each sprint, in the planning meeting the team chooses which items it will work on for the sprint from
+the product backlog. A sprint backlog may be flexible and can evolve during a sprint. However, the fundamental sprint goal -
+what the team wants to achieve from the current sprint - cannot be compromised. 
+
+3. Increment (or Sprint Goal) - the usable end-product from a sprint. At Atlassian, we usually demonstrate the "increment" during
+the end-of-sprint demo, where the team shows what was compelted in the sprint. It is entirely the decision of the team whether to
+ship their product at the end of sprints or not, it is dependent on what the team defines as 'Done'.
+
+### 3 Amigos
+Refers to the primary perspectives to examine an increment of work before, during and after development:
+- Business - What problem are we trying to solve?
+- Development - How might we build a solution to solve that problem?
+- Testing - What about this, what could possibly happen?
 
 ## Epic & User Stories
 ### User Stories
@@ -102,3 +119,5 @@ work/develop and test to make sure it worked)
 Benefits:
 - Reduces stress placed on a team to complete a project which is very complex as its broken down into more manageable user stories
 - Improves efficiency as developers know exactly how to approach a project when its broken down 
+
+## Kanban
