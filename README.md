@@ -10,7 +10,7 @@
 - SCRUM is a framwork that helps teams work together. Much like a rugby team training for the big game, SCRUM encourages teams
 to learn through experiences, self-organise while working on a problem, and reflect on their wins and losses to continously improve.
 - Scrum is very similar to Agile, it is based on continous learning and adjustment to fluctuating factors. 
-
+- **Trello is Sparta's way of implementing SCRUM for their courses**
 ### Scrum Roles
 1. Scrum Product Owner - are the champions for their product. They are focused on understanding business, customer and mark 
 requirements, then prioritising the work to be done by the engineering team accordingly. 
@@ -98,7 +98,21 @@ Benefits include:
 - Client has the option to change the order of tasks.
 - Developers can see exactly what they are doing thus promoting efficiency and discipline as well as reducing stress. 
 
-## Epic User Stories
+**INVEST** - Helps to remember a widely accepted set of criteria or checklist to assess the quality of a user story. If the story
+fails to meet one of these criteria the team may want to reword it or even consider a rewrite. A good user story should be:
+- I  Independent (of all others)
+- N  Negotiable (not a specific contract for features)
+- V  Valuable 
+- E  Estimable (to a good approximation)
+- S  Small (so as to fit within an iteration)
+- T  Testable (in principle, even if there isnt a test for it yet)
+
+**Planning Poker** - An agile estimating and planning technique that is consensus based. To start a poker session, the product 
+ownder or customer reads an agile user story or describes a feature to the estimators. Everyone essentially picks up cards which
+they think show the correct estimate for the story. If everyone picks the same card, that is the estimate, if people have 
+differing opinions, the process is repeated until people share the same estimate.
+
+### Epic User Stories
 An epic is a large user story that cannot be delivered as defined within a single iteration or is large enough that it can be split
 into smaller user stories.
 Epic stories allow you to keep track of large, loosely defined ideas in your backlog without the need to overpopulate your backlog
@@ -121,3 +135,25 @@ Benefits:
 - Improves efficiency as developers know exactly how to approach a project when its broken down 
 
 ## Kanban
+Kanban is a popular framework used to implement agile software development. IT requires real-time communication of capacity and 
+full transparency of work. Work items are represented visually on a kanban board, allowing team members to see the state of every
+piece of work at any time. 
+
+The work of all kanban teams revolves around a **kanban board**, a tool used to visualise work and optimise the flow of the work
+among the team. Virtual boards are a crucial feature in any agile software development tool for their traceability, easier 
+collaboration and accessibility from multiple locations. A basic kanban board has a 3 step workflow: **To Do, In Progress and Done**.
+It is an incredibly useful tool as everyone on the development team can see what everyone else is working on and it makes workflow
+much more efficient as there is a large decrease in confusion and issues with not knowing what to do.  
+
+### Kanban vs SCRUM
+
+![](kanban.PNG)
+
+
+Kanban is great for teams that have lots of incoming requests that vary in priority and size. Whereas scrum processes require
+high control over what is in scope, kanban let's you go with the flow. One major difference between the two is that there is no
+one assigned to be the "kanban master" so everyone can change and alter the workflow as well as change the estimates for the 
+different cards to be delivered. 
+
+SCRUM forces the team to ship some valuable increment of work by the end of each sprint. Scrum is built on empiricism, focusing
+on small increments of work that will help you learn from your customers and better inform what you do next. 
