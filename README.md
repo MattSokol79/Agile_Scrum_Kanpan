@@ -14,14 +14,14 @@ to learn through experiences, self-organise while working on a problem, and refl
 ### Scrum Roles
 1. Scrum Product Owner - are the champions for their product. They are focused on understanding business, customer and mark 
 requirements, then prioritising the work to be done by the engineering team accordingly. 
-  - They build and manage the product backlog
-  - Closely partner with the business and the team to ensure everyone understands the work items in the product backlog
-  - Give the team clear guidance on which features to deliver next
-  - Decide when to ship the product
+- They build and manage the product backlog
+- Closely partner with the business and the team to ensure everyone understands the work items in the product backlog
+- Give the team clear guidance on which features to deliver next
+- Decide when to ship the product
 
 2. Scrum master - are the champions for scrum within their teams. They coach teams, product owners, and the business on the scrum
 process and look for ways to fine-tune their practice of it.
-  - An effective scrum master deeply understands the work being done by the team and can help the team optimise their transparency
+- An effective scrum master deeply understands the work being done by the team and can help the team optimise their transparency
 and delivery flow. They are in charge of scheduling people to do sprint planning, standu-up, sprint review and retrospective. 
 
 3. Scrum development team - they get stuff done, champions for sustainable development practices. Usually 5-7 members or small
